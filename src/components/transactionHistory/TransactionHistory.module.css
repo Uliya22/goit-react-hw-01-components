@@ -1,6 +1,9 @@
 .transactionHistory {
-  width: 600px;
+  width: 400px;
   margin: 0 auto;
+  border: 2px solid rgb(181, 180, 180);
+  border-radius: 4px;
+  box-shadow: 4px 4px 5px -3px rgba(0, 0, 0, 0.5);
 }
 
 thead {
